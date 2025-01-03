@@ -1,0 +1,17 @@
+br\com\ltoledo\dao\ClienteDAO.class
+br\com\ltoledo\service\IClienteService.class
+br\com\ltoledo\controller\ClienteController.class
+br\com\ltoledo\domain\Cliente.class
+br\com\ltoledo\services\generic\IGenericService.class
+br\com\ltoledo\service\ClienteService.class
+br\com\ltoledo\exceptions\MaisDeUmRegistroException.class
+br\com\ltoledo\exceptions\TableException.class
+br\com\ltoledo\controller\IndexController.class
+br\com\ltoledo\dao\generic\IGenericDAO.class
+br\com\ltoledo\exceptions\DAOException.class
+br\com\ltoledo\dao\generic\GenericDAO.class
+br\com\ltoledo\exceptions\TipoElementoNaoConhecidoException.class
+br\com\ltoledo\exceptions\TipoChaveNaoEncontradaException.class
+br\com\ltoledo\dao\IClienteDAO.class
+br\com\ltoledo\domain\Persistente.class
+br\com\ltoledo\services\generic\GenericService.class

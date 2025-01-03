@@ -1,0 +1,17 @@
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\services\generic\IGenericService.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\dao\ClienteDAO.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\domain\Persistente.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\exceptions\TipoElementoNaoConhecidoException.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\domain\Cliente.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\exceptions\MaisDeUmRegistroException.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\controller\IndexController.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\service\ClienteService.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\exceptions\DAOException.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\service\IClienteService.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\dao\generic\IGenericDAO.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\services\generic\GenericService.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\controller\ClienteController.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\exceptions\TableException.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\dao\IClienteDAO.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\dao\generic\GenericDAO.java
+C:\Users\ludmy\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\ExemploJSFProfessor\src\main\java\br\com\ltoledo\exceptions\TipoChaveNaoEncontradaException.java
